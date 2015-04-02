@@ -221,9 +221,8 @@ clean:
 web: gunicorn myapp.wsgi --log-file -
 ```
 
-### Builpack
+### .buildpack
 
-.buildpack
 ```
 https://github.com/heroku/heroku-buildpack-nodejs.git
 https://github.com/vintasoftware/heroku-buildpack-python-with-django-bower.git
