@@ -1,6 +1,6 @@
 # Django stack
 
-Some gidelines to configuring a new django project.
+Some guidelines to configuring a new django project.
 Currently meant for Django 1.7
 
 ## Dependencies
